@@ -38,5 +38,4 @@ Power BI • DAX • Power Query • Data Modeling • Data Visualization • KP
 
 7. Screnshots / Demos
    ![Alt text](https://github.com/SushNandy/SushNandy/blob/main/Employee%20Attendance.png)
-Example: ![Dashboard Preview](https://github.com/SushNandy/SushNandy/blob/main/Employee%20Attendance.png)
 
