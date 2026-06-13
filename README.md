@@ -37,5 +37,6 @@ Make data-driven workforce management decisions.
 Power BI • DAX • Power Query • Data Modeling • Data Visualization • KPI Reporting • Dashboard Development • HR Analytics
 
 7. Screnshots / Demos
-https://github.com/SushNandy/SushNandy/blob/main/Employee%20Attendance.png
+   ![Alt text](https://github.com/SushNandy/SushNandy/blob/main/Employee%20Attendance.png)
+Example: ![Dashboard Preview](https://github.com/SushNandy/SushNandy/blob/main/Employee%20Attendance.png)
 
